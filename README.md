@@ -1,4 +1,4 @@
-# Hola, soy Sara 👋
+# Hola, soy Sara
 
 ### Front-End Developer | React · JavaScript · Tailwind CSS · UI/UX & Data Analytics
 
@@ -6,7 +6,7 @@ Desarrolladora Front-End especializada en la creación de aplicaciones web moder
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### Tech Stack & Herramientas
 
 #### Front-End & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,6 +27,6 @@ Desarrolladora Front-End especializada en la creación de aplicaciones web moder
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
-* 📊 **[E-commerce Analytics Dashboard](https://github.com/saraf-z/ecommerce-dashboard)**: Dashboard interactivo para análisis de métricas de ventas, rendimiento de productos y visualización de datos de e-commerce construido con React, Vite, Tailwind CSS y Recharts.
+*  **[E-commerce Analytics Dashboard](https://github.com/saraf-z/ecommerce-dashboard)**: Dashboard interactivo para análisis de métricas de ventas, rendimiento de productos y visualización de datos de e-commerce construido con React, Vite, Tailwind CSS y Recharts.
